@@ -5,7 +5,8 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#F44336">
+        android:background="#F44336"
+        android:text="nut">
     </Button>
 
 </LinearLayout>
